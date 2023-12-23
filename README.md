@@ -54,14 +54,17 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
+![Screenshot 2023-12-23 150613](https://github.com/KeerthanaaSaravanan/EX-07-Norm-of-a-matrix/assets/145742596/51d68f15-3a9a-4aab-b9fd-47223fedc323)
 
 <br>
 
 ### 2-Norm of a Matrix
+![Screenshot 2023-12-23 150623](https://github.com/KeerthanaaSaravanan/EX-07-Norm-of-a-matrix/assets/145742596/101ecee5-da67-43d1-8f92-5c1a7f8bbc1c)
 
 <br>
 
 ### Infinity Norm of a Matrix
+![Screenshot 2023-12-23 150644](https://github.com/KeerthanaaSaravanan/EX-07-Norm-of-a-matrix/assets/145742596/d4aae1df-a9c7-4efd-8e51-910ce55afea1)
 
 <br>
 
